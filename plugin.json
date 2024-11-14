@@ -4,7 +4,7 @@
     "namespace": "elgazar\\Certificate\\",
     "provider": "elgazar\\Certificate\\Providers\\CertificateServiceProvider",
     "author": "Amr Elgazar",
-    "url": "https://friendsofbotble.com",
+    "url": "https://amrelgazar.com",
     "version": "1.0.0",
     "description": "Add certificates and legal papers",
     "minimum_core_version": "7.4.5"
