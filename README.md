@@ -20,3 +20,6 @@ The **Certificate** plugin for Botble CMS allows you to easily add and manage ce
 
 - **Botble CMS** version **7.4.5** or higher.
 - PHP **7.4** or higher.
+
+### 📝 License
+This project is licensed under the [MIT License](LICENSE).
